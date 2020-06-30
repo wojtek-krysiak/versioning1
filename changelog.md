@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 30.06.202
+* adding PORT as a env variable
+
 ## [1.1.2] - 30.06.2020
 * fixing server naming issue
 
