@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.2] - 30.06.2020
+* fixing server naming issue
+
 ## [1.1.1] - 30.06.2020
 * improve formatting
 
